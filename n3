@@ -1,0 +1,10 @@
+3. 
+a = input("პირველი გვერდი: ")
+b = input("მეორე გვერდი: ")
+c = input("მესამე გვერდი: ")
+h = input("სიმაღლე: ")
+p = int(a) + int(b) + int(c)
+s = 1/2 * int(c) * int(h)
+
+print(p)
+print(s)
