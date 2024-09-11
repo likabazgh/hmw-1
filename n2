@@ -1,0 +1,6 @@
+2.
+first_name = input("write your first name: ")
+birth_year = input("write your birth year: ")
+age = 2024 - int(birth_year)
+
+print(first_name, ", you are", age, "years old.")
